@@ -11,5 +11,5 @@ Este repositorio contiene el material y código desarrollado sobre **Procesamien
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/jepilogo/nlp.git
+git clone https://github.com/jepilogo97/nlp.git
 cd nlp
