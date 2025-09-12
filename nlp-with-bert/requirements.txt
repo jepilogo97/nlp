@@ -11,3 +11,4 @@ optuna==4.5.0
 tqdm==4.67.1
 transformers==4.38.2
 evaluate==0.4.3
+peft==0.9.0
