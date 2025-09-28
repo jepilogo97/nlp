@@ -18,7 +18,7 @@ sentence-transformers==3.0.1
 ollama==0.5.4
 langchain==0.3.8
 langchain-ollama==0.3.8
-langchain-community==0.2.16
+langchain-community==0.3.8
 langchain-huggingface==0.0.3
 gradio==4.41.0
 faiss-cpu==1.8.0
