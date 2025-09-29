@@ -24,5 +24,5 @@ langchain-huggingface==0.1.2
 langchain-core==0.3.25
 langsmith>=0.1.125,<0.2.0
 colab-xterm==0.2.0
-gradio==4.41.0
+gradio==4.36.1
 faiss-cpu==1.8.0
